@@ -1,3 +1,2 @@
-wait(5)
 game.Players.LocalPlayer:Kick(“ЗАЙДИ В ТЕЛЕГРАММ ЧТОБЫ ПОЛУЧИТЬ ОБНОВЛЕННЫЙ NOOBAS HUB! ССЫЛКА В ТВОЁМ БУФЕРЕ ОБМЕНА”)
 setclipboard("https://t.me/NoobasHub")
