@@ -1,2 +1,8 @@
-game.Players.LocalPlayer:Kick(“ЗАЙДИ В ТЕЛЕГРАММ ЧТОБЫ ПОЛУЧИТЬ ОБНОВЛЕННЫЙ NOOBAS HUB! ССЫЛКА В ТВОЁМ БУФЕРЕ ОБМЕНА”)
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Уведомление";
+    Text = "ЗАЙДИ В ТЕЛЕГРАММ ЧТОБЫ ПОЛУЧИТЬ ОБНОВЛЕННЫЙ NOOBAS HUB! ССЫЛКА В ТВОЁМ БУФЕРЕ ОБМЕНА";
+    Icon = "";
+    Duration = "10";
+})
+
 setclipboard("https://t.me/NoobasHub")
