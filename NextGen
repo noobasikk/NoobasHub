@@ -5,4 +5,4 @@ game.StarterGui:SetCore("SendNotification", {
     Duration = "10";
 })
 
-setclipboard("https://t.me/NoobasHub")
+
